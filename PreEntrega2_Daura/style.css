@@ -1,0 +1,238 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+header
+{
+    width: 100%;
+    height: 21%;
+    background-color: rgb(249, 244, 244);
+    border-bottom: 2px solid rgb(129, 129, 129);
+}
+
+.nav
+{
+    background-color: rgb(238, 238, 238);
+    height: 50%;
+}
+
+main
+{
+    width: 100%;
+    height: 40%;
+    background-color: rgb(238, 238, 238);
+    border-bottom: 2px solid rgb(129, 129, 129);
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    color: rgb(44, 44, 44);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-style: italic; */
+}
+
+#Buscador 
+{
+    background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-19-32.png) no-repeat 0px 5px;
+    background-size: 24px;
+    width: 350px;
+    border: transparent;
+    border-bottom: solid 1px #ccc;
+    padding: 10px 10px 10px 30px;
+    outline: none;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+  
+  a
+  {
+    text-decoration: none;
+  }
+
+  .inicio 
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgba(133, 133, 133, 0.5);
+    color: #fff;
+    text-align: center;
+    margin-left: 750px;
+  }
+
+  .catalogo
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgba(133,133,133,.5);
+    color: #fff;
+    text-align: center;
+    margin-left: 20px;
+  } 
+  
+  .consultas
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgba(133,133,133,.5);
+    color: #fff;
+    text-align: center;
+    margin-left: 20px;
+  }
+
+  section
+  {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 15%;
+    border-bottom: 2px solid rgb(129, 129, 129);
+  }
+
+  .izq
+  {
+    width: 49%;
+    height: 100%;
+    float: left;
+    background-color: rgb(238, 238, 238);
+    border-right: 2px solid rgb(129, 129, 129);
+  }
+
+  .der
+  {
+    width: 50.85%;
+    height: 100%;
+    float: right;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    /* border-left: 2px solid rgb(129, 129, 129); */
+  }
+
+  p
+  {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(44, 44, 44);
+  }
+
+  #MARCAS
+  {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(44, 44, 44);
+  }
+
+  #CUOTAS
+  {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  footer
+  {
+    width: 100%;
+    height: 35%;
+    background-color: rgb(249, 244, 244);
+    border-top: 1px solid rgb(129, 129, 129);
+  }
+
+  .REDES
+  {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .PAGOS
+  {
+    text-align: right;
+  }
+
+  #TITULO_FOOTER1
+  {
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
+    text-align: left;
+    color: rgb(44, 44, 44);
+  }
+
+  #TITULO_FOOTER2
+  {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
+    text-align: left;
+    color: rgb(44, 44, 44);
+  }
+
+  #TEXTO_FOOTER1
+  {
+    font-size: 15px;
+    text-align: left;
+  }
+
+  #TEXTO_FOOTER2
+  {
+    font-size: 15px;
+    text-align: left;
+  }
+
+  .FORMULARIO
+  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(44, 44, 44);
+  }
+
+  #main_catalogo
+  {
+    margin-top: 60px;
+    height: 470%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .stock
+  {
+    font-size: 40px;
+    color: white;
+    background-color: rgb(0, 143, 226);
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+
+  ul
+  {
+    font-style: italic;
+  }
+
+  #desde2009
+  {
+    color: rgb(78, 125, 255);
+    font-size: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+  .jackcasady
+  {
+    border-bottom: 6px double rgb(129, 129, 129);
+  }
+
+  .musicman
+  {
+    border-bottom: 6px double rgb(129, 129, 129);
+  }
+
+
+
+
+  
